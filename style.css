@@ -1,0 +1,71 @@
+.main-title {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.game-area {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.game-area p {
+    font-family: 'Open Sans', sans-serif;
+    color: #929292;
+}
+
+.computer-score-area {
+    position: relative;
+    float: left;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.score-title-computer {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #929292;
+}
+
+.player-score-area {
+    position: relative;
+    float: right;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.player-score-text {
+    text-align: right;
+}
+
+.score-title-player {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #929292;
+}
+
+.game-status-text {
+    text-align: center;
+}
+
+.status {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.player-input {
+    text-align: center;
+}
+
+.button-style {
+    padding: 5px 20px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.button-style:hover {
+    background-color: gray;
+    cursor: pointer;
+}
